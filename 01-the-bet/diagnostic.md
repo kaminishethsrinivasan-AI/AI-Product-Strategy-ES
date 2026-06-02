@@ -1,7 +1,7 @@
 # Three-Axis Vulnerability Diagnostic
 
 ## Product
-<!-- Name the product you're diagnosing. Real product at your company — not a hypothetical. -->
+Autonomous Sourcing & Negotiation Agents — "Newly Emergent Category Leader"
 
 **Product:**
 **Your Role:**
@@ -10,28 +10,37 @@
 
 ## Scores
 
-### Contextual Moat — __/5
-*Workflow depth × switching cost. Would users leave in a weekend if a competitor showed up?*
+### Contextual Moat — 3/5
 
 **Score rationale:**
+Strong procurement workflows.
+Emerging category-specific expertise.
+Limited institutional memory
 
 **Named attacker (from partner challenge):**
 
 ---
 
-### Data Advantage — __/5
+### Data Advantage — 2.5/5
 *Proprietary signal that compounds with usage. What do you see that OpenAI doesn't?*
 
 **Score rationale:**
+Growing dataset.
+Early customer interactions.
+Some negotiation outcome
 
 **Named attacker (from partner challenge):**
 
 ---
 
-### Platform Exposure — __/5
+### Platform Exposure — 2/5
 *Encroachment risk × pivot speed. If Apple/Google/OpenAI ships your hero feature native — then what?*
 
 **Score rationale:**
+Often dependent on:
+Foundation models
+ERP integrations
+Procurement ecosystems
 
 **Named attacker (from partner challenge):**
 
