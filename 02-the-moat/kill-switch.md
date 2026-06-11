@@ -4,10 +4,10 @@
 
 | Dimension | Current State | Risk Level | 48-Hour Action |
 |-----------|--------------|------------|---------------|
-| **Provider** | | H | |
-| **Abstraction** | | M | |
-| **Routing** | | M | |
-| **Eval** | | H | |
+| **Provider** | Primary dependence on a single LLM provider for reasoning, summarization, and negotiation generation | H | Switch inference to a secondary provider (e.g., maintain pre-built adapters and validated prompts for multiple model vendors) while preserving application logic |
+| **Abstraction** | LLM calls are routed through an internal AI orchestration layer with standardized prompts and APIs, but some provider-specific optimizations exist | M | Remove provider-specific features, update configuration, and redirect traffic through the abstraction layer without changing business workflows |
+| **Routing** | Limited dynamic routing between models based on task complexity, latency, or cost | M | Activate fallback routing rules to distribute workloads across alternate providers or open-source models for non-critical tasks |
+| **Eval** | Core sourcing workflows have evaluation datasets, but portability testing across multiple models is incomplete | H | Execute benchmark suite against backup providers, validate negotiation quality, supplier ranking accuracy, and regression metrics before full cutover |
 
 ## Portability Score
 <!-- Ready / Partial / Locked -->
