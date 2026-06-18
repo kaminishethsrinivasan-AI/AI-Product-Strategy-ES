@@ -61,6 +61,10 @@ Tiered confidence scoring with explicit uncertainty indicators and automatic Hum
 | Hallucination rate | <1% | Human audit and retrieval-grounded evaluation | >2% |
 | Latency (p95) | <15 seconds | End-to-end production telemetry | >20 seconds |
 | Drift velocity | <3% degradation month-over-month | Continuous benchmark regression testing | >5% decline |
+| Pricing diligence accuracy |	≥98%	| Comparison against finance-approved pricing models | <95% |
+| Supplier margin estimation accuracy	| Within ±3 percentage points	| Validation against finance-reviewed should-cost models	| >±5 percentage points |
+| Award recommendation consistency |	≥97% |	Agreement with enterprise sourcing methodology and scoring framework | <94% |
+| Financial calculation error rate | Zero critical errors	| Automated rule-based validation	| Any critical calculation error |
 
 ## HITL Architecture
 <!-- When does a human step in? What's the escalation path? -->
