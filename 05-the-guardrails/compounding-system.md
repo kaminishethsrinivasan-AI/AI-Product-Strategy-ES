@@ -23,7 +23,8 @@ The system captures sourcing recommendations but does not consistently capture w
 
 ## Context Connectivity
 <!-- How does knowledge flow across teams and domains? Where does it silo? -->
-Enterprise context shared across domains
+Enterprise context shared across domain
+
 The Procurement Intelligence Layer connects:
 * ERP spend data
 * Contract Lifecycle Management (CLM)
@@ -96,15 +97,88 @@ The AI may not autonomously:
 
 ## Agent Topology
 <!-- If using agents: what can each agent do? What can't it do? Who approves what? -->
+Procurement Orchestrator Agent
+Can:
+* Coordinate workflows
+* Delegate tasks
+* Aggregate results
+* Generate executive recommendations
+Cannot:
+* Approve supplier awards
+* Execute financial commitments
 
+Negotiation Strategy Agent
+Can:
+* Build negotiation playbooks
+* Simulate counteroffers
+* Recommend concessions
+* Estimate walk-away thresholds
+Cannot:
+* Commit negotiated terms
+* Finalize commercial agreements
+
+Pricing & Finance Agent
+Can:
+* Perform should-cost analysis
+* Estimate supplier margins
+* Validate pricing proposals
+* Produce TCO models
+* Estimate savings opportunities
+Cannot:
+* Approve budgets
+* Commit financial decisions
+
+Supplier Intelligence Agent
+Can:
+* Analyze supplier performance
+* Aggregate market intelligence
+* Assess supplier risk
+* Recommend supplier rankings
+Cannot:
+* Blacklist suppliers
+* Override enterprise risk policy
+
+Compliance & Governance Agent
+Can:
+* Validate procurement policy
+* Detect privacy concerns
+* Flag legal issues
+* Check regulatory requirements
+* Verify approval workflows
+Cannot:
+* Provide legal opinions
+* Waive policy requirements
+
+Human Approvers
+Category Leader
+* Reviews sourcing strategy
+* Reviews negotiation recommendations
+Finance
+* Approves pricing diligence
+* Reviews supplier economics
+* Validates savings calculations
+Legal
+* Reviews contractual language
+* Approves legal deviations
+Privacy
+* Reviews confidential information handling
+* Validates privacy compliance
+Risk
+* Reviews supplier risk
+* Approves high-risk sourcing decisions
+* 
 ## Shadow AI Audit
 
 | Tool | Owner | Risk Level | Decision |
 |------|-------|-----------|----------|
-| | | H / M / L | keep / govern / kill |
-| | | H / M / L | keep / govern / kill |
-| | | H / M / L | keep / govern / kill |
+| Individual procurement professionals using public LLMs for supplier analysis | Business Users | H | govern |
+| Standalone spreadsheet-based pricing and should-cost calculators | Finance & Sourcing | M | govern |
+| Unsanctioned contract summarization or RFx generation tools | Procurement Teams | H | kill |
 
 **Total tools found:**
+15
 **Tools after triage:**
+6 governed enterprise-approved tools consolidated into the Autonomous Sourcing & Negotiation platform
+
 **Estimated hidden spend:**
+Approximately $250K–$500K annually across duplicate AI subscriptions, shadow productivity tools, fragmented pricing models, manual spreadsheet maintenance, and inconsistent procurement workflows. Consolidation into a governed enterprise platform is expected to reduce hidden costs while improving compliance, auditability, and decision quality.
