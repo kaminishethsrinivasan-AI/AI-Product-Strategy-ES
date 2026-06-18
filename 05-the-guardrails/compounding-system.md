@@ -4,16 +4,12 @@
 
 | Loop | Input | Output | Compounds? | Status |
 |------|-------|--------|-----------|--------|
-| | | | Y/N | active / broken / missing |
-| | | | Y/N | active / broken / missing |
-| | | | Y/N | active / broken / missing |
-
-| Negotiation Learning Loop	| Negotiation strategies, user edits, supplier counteroffers, final negotiated outcomes	Improved negotiation playbooks, pricing recommendations, concession strategies, and target price predictions	| Y	| Active |
-| Pricing & Finance Diligence Loop	| Supplier quotes, should-cost models, market benchmarks, finance reviews, realized savings	Better pricing benchmarks, supplier margin estimates, TCO models, and savings opportunity detection	| Y	| Active |
-| Supplier Performance Loop	| Award decisions, supplier scorecards, delivery performance, SLA adherence, risk events	Improved supplier rankings, risk predictions, sourcing recommendations, and award decisions	| Y	| Active |
-| Policy & Governance Loop	| Procurement, Legal, Privacy, Risk, and Compliance reviews	Stronger policy adherence, reduced hallucinations, improved governance, and safer autonomous execution	| Y	| Active |
-| Cross-Category Intelligence Loop	| Spend data, sourcing events, contracts, negotiations across categories	Better category strategies, sourcing wave planning, and enterprise-wide procurement intelligence	| Y	| Active |
-| User Feedback Loop	| Explicit ratings, overrides, corrections, manual approvals	Better prompts, recommendations, confidence calibration, and evaluation datasets	| Y	| Missing (planned roadmap item) |
+| Negotiation Learning Loop | Negotiation strategies, user edits, supplier counteroffers, final negotiated outcomes | Improved negotiation playbooks, pricing recommendations, concession strategies, and target price predictions | Y | active |
+| Pricing & Finance Diligence Loop | Supplier quotes, should-cost models, market benchmarks, finance reviews, realized savings | Better pricing benchmarks, supplier margin estimates, TCO models, and savings opportunity detection | Y | active |
+| Supplier Performance Loop | Award decisions, supplier scorecards, delivery performance, SLA adherence, risk events | Improved supplier rankings, risk predictions, sourcing recommendations, and award decisions | Y | active |
+| Policy & Governance Loop	| Procurement, Legal, Privacy, Risk, and Compliance reviews |	Stronger policy adherence, reduced hallucinations, improved governance, and safer autonomous execution	| Y	| Active |
+| Cross-Category Intelligence Loop	| Spend data, sourcing events, contracts, negotiations across categories	| Better category strategies, sourcing wave planning, and enterprise-wide procurement intelligence	| Y	| Active |
+| User Feedback Loop	| Explicit ratings, overrides, corrections, manual approvals	| Better prompts, recommendations, confidence calibration, and evaluation datasets	| Y	| Missing (planned roadmap item) |
 
 **Broken loop identified by partner:**
 
