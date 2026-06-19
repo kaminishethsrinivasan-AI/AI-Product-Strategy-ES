@@ -1,7 +1,7 @@
 # Three-Axis Vulnerability Diagnostic
 
 ## Product
-Autonomous Sourcing & Negotiation Agents — "Newly Emergent Category Leader"
+Agentic Sourcing — "Newly Emergent Category Leader"
 
 **Product:**
 **Your Role:**
