@@ -1,7 +1,7 @@
 # Three-Axis Vulnerability Diagnostic
 
 ## Product
-Agentic Sourcing — "Newly Emergent Category Leader"
+Agentic Sourcing — "Emerging Category Leader"
 
 **Product:**
 **Your Role:**
