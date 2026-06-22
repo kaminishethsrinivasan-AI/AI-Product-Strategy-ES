@@ -87,7 +87,7 @@ We are building Agentic Sourcing — the category-defining AI system that become
 
 **The ask:**
    * Fund buildout of Agentic Sourcing intelligence graph and feedback infrastructure
-* Expand enterprise system integrations (ERP, CLM, SRM, Risk platforms)
+   * Expand enterprise system integrations (ERP, CLM, SRM, Risk platforms)
    * Invest in reliability layer (Golden Dataset + multi-function evaluation system)
    * Focus GTM on Category Leaders, Procurement Directors, and Global Commodity Managers
 
@@ -98,3 +98,4 @@ We are building Agentic Sourcing — the category-defining AI system that become
 AI will assist procurement teams by automating sourcing tasks, summarizing supplier data, and improving efficiency through conversational intelligence.
 
 **Now:**
+We are building Agentic Sourcing — a compounding enterprise intelligence system that actively improves sourcing, negotiation, and pricing decisions using real-world outcomes, while operating under strict Finance, Legal, Risk, and Privacy governance constraints.
