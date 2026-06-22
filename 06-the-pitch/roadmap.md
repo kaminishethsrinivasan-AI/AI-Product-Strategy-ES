@@ -1,4 +1,5 @@
 # Three-Horizon Roadmap & Board Pitch
+Agentic Sourcing — Emerging Category Leader
 
 ## Roadmap
 
@@ -7,10 +8,11 @@
 
 | Initiative | Metric | Confidence |
 |-----------|--------|-----------|
-| Negotiation strategy generator (Tier A/B/C suppliers)	| % adoption in live sourcing events	| H |
-| Supplier bid comparison + award recommendation	| Decision acceptance rate	| H |
-| Pricing diligence (market benchmark vs supplier quotes)	| Pricing accuracy vs finance baseline	| H |
-| RFx + response summarization assistant	| Cycle time reduction in RFx evaluation	| H |
+
+| Agentic negotiation strategy generation (Tier A/B/C suppliers)	| Adoption in live sourcing events	| H |
+| Supplier bid comparison + award recommendation agent	| Decision acceptance rate vs human baseline	| H |
+| Pricing diligence (market benchmark vs supplier quotes)	| Pricing accuracy vs finance validation	| H |
+| RFx summarization + response intelligence agent	| RFx cycle time reduction	| H |
 
 
 ### Horizon 2 — Next (3-9 months)
@@ -18,54 +20,58 @@
 
 | Initiative | Metric | Confidence |
 |-----------|--------|-----------|
-| Should-cost modeling engine (labor, overhead, margin inference)	| Margin estimation accuracy	| M |
-| Procurement Knowledge Graph (suppliers, contracts, outcomes)	| Cross-event reuse rate of insights	| M |
-| Cross-system integration layer (ERP + CLM + SRM + Risk)	| % workflows executed end-to-end in platform	| M |
-| Feedback loop capture (negotiation edits, overrides, outcomes)	| % decisions captured as structured learning signals	| H |
+
+| Should-cost intelligence engine (labor, overhead, margin modeling)	| Margin estimation accuracy	| M |
+| Procurement intelligence graph (suppliers, contracts, outcomes) |	Cross-event reuse of insights	| M |
+| Enterprise system orchestration layer (ERP + CLM + SRM + Risk)	| % end-to-end workflows executed in platform	| M |
+| Feedback loop capture system (overrides, edits, outcomes) |	% structured learning signal capture	| H 
 
 ### Horizon 3 — Bet (9-18 months)
 *Moonshots. High uncertainty, high potential.*
 
 | Initiative | Metric | Confidence |
 |-----------|--------|-----------|
-| Autonomous sourcing execution (multi-step RFx → negotiation → recommendation)	| % sourcing events fully AI-orchestrated	| L |
-| Cross-enterprise procurement intelligence benchmarking network	| Benchmark quality improvement over baseline	| L |
-| Self-improving negotiation models trained on realized outcomes	| Savings lift vs baseline procurement teams	| L |
-| Risk-aware autonomous procurement agent (policy + legal + finance constrained execution)	| Audit approval rate without manual override | L |
+
+| Semi-autonomous sourcing execution (RFx → negotiation → recommendation loops) |	% sourcing events agent-led |	L |
+| Cross-enterprise procurement intelligence benchmarking network | Benchmark uplift vs internal-only model	| L |
+| Outcome-trained negotiation models (learn from realized savings & wins)	| Savings uplift vs baseline procurement teams	| L |
+| Policy-aware agentic procurement system (Finance + Legal + Risk constrained execution) | Audit approval rate without override	| L |
 
 
 ## Board Pitch
 
 **Thesis (1 sentence):**
-We are building the AI-native procurement intelligence layer that continuously improves sourcing, negotiation, and supplier decisions across the enterprise.
+We are building Agentic Sourcing — the category-defining AI system that becomes the decision layer for enterprise procurement.
 
 **The case:**
 1. Why now:
-   * Procurement complexity is increasing (cost pressure, supply volatility, compliance burden)
-   * Enterprises already have fragmented procurement data but lack intelligence layers
-   * AI has reached capability to reason over contracts, pricing, and supplier behavior
-   * Integration across ERP/CLM/SRM now makes system-wide orchestration possible
+   * Procurement is under structural pressure: cost, resilience, and compliance are increasing simultaneously
+   * Enterprise procurement data is finally connected enough to support intelligent orchestration
+   * AI is now capable of reasoning over contracts, pricing, supplier behavior, and negotiation structure
+   * Enterprises are actively seeking automation beyond dashboards into decision support
   
 3. What's defensible:
-   * Compounding procurement dataset (negotiations, awards, pricing outcomes)
-   * Cross-enterprise procurement intelligence graph
-   * Embedded workflow integration across ERP, CLM, SRM, Risk systems
-   * Feedback loops from real financial outcomes (not just user prompts)
-   * Governance + trust layer (Finance, Legal, Risk, Privacy validation baked in)
+   * Compounding agentic sourcing dataset (negotiations, awards, pricing outcomes)
+   * Procurement intelligence graph across suppliers, categories, and outcomes
+   * Deep integration layer across ERP, CLM, SRM, Risk systems
+   * Continuous feedback loops from real financial outcomes
+   * Governance layer spanning Finance, Legal, Risk, Privacy as first-class system constraints
    
 5. The economics:
-   * Unlimited AI usage per enterprise seat
-   * Intelligent routing: 85% low-cost models, 15% high-value reasoning
-   * Target AI COGS: $38–$62 per user/month
-   * Target gross margin: 70–80%
-   * Revenue scales with adoption of procurement workflows, not token usage
-
+   * Enterprise subscription with unlimited agent usage
+   * Smart routing architecture:
+       * 85% low-cost models (retrieval, summarization, classification)
+       * 15% reasoning agents (pricing, negotiation, strategy)
+   * Complex enterprise approval workflows (Finance, Legal, Risk, Privacy)
+* Integration dependency across fragmented procurement systems
+* Risk of operational bottlenecks in high-value sourcing events
+* Mitigation: strict HITL controls + modular agent architecture
 **The risks:**
 1. Trust / failure modes:
-   * Incorrect pricing diligence or margin estimation
-   * Overconfident negotiation recommendations
-   * Lack of explainability in high-value sourcing decisions
-   * Mitigation: Golden Dataset + Finance/Risk/Legal evaluation layer
+   * Incorrect pricing or margin analysis in high-stakes sourcing
+   * Overconfident negotiation recommendations without sufficient evidence
+   * Lack of explainability in financial decisions
+   * Mitigation: Golden Dataset + Finance + Risk + Legal evaluation layer
   
 3. Scale / governance:
    * Heavy reliance on integration across enterprise systems
