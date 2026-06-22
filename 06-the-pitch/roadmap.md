@@ -62,10 +62,10 @@ We are building Agentic Sourcing — the category-defining AI system that become
    * Smart routing architecture:
        * 85% low-cost models (retrieval, summarization, classification)
        * 15% reasoning agents (pricing, negotiation, strategy)
-   * Complex enterprise approval workflows (Finance, Legal, Risk, Privacy)
-* Integration dependency across fragmented procurement systems
-* Risk of operational bottlenecks in high-value sourcing events
-* Mitigation: strict HITL controls + modular agent architecture
+   * Target AI COGS: $38–$62 per user/month
+   * Target gross margin: 70–80%
+   * Expansion driven by workflow penetration, not usage metering
+  
 **The risks:**
 1. Trust / failure modes:
    * Incorrect pricing or margin analysis in high-stakes sourcing
@@ -74,9 +74,10 @@ We are building Agentic Sourcing — the category-defining AI system that become
    * Mitigation: Golden Dataset + Finance + Risk + Legal evaluation layer
   
 3. Scale / governance:
-   * Heavy reliance on integration across enterprise systems
-   * Complex approval workflows across Finance, Legal, Risk, Privacy
-   * Mitigation: strict HITL boundaries + modular agent architecture
+   * Complex enterprise approval workflows (Finance, Legal, Risk, Privacy)
+   * Integration dependency across fragmented procurement systems
+   * Risk of operational bottlenecks in high-value sourcing events
+   * Mitigation: strict HITL controls + modular agent architecture
   
 5. Competitive:
    * ERP vendors embedding native AI sourcing tools
@@ -85,10 +86,10 @@ We are building Agentic Sourcing — the category-defining AI system that become
    * Mitigation: proprietary procurement intelligence graph + cross-enterprise learning loop
 
 **The ask:**
-* Approve investment to build procurement intelligence graph + feedback loop infrastructure
-* Expand enterprise integrations (ERP, CLM, SRM, Risk)
-* Fund Horizon 2 evaluation and reliability system expansion
-* Support GTM focus on Category Leaders and Procurement Directors in large enterprises
+   * Fund buildout of Agentic Sourcing intelligence graph and feedback infrastructure
+* Expand enterprise system integrations (ERP, CLM, SRM, Risk platforms)
+   * Invest in reliability layer (Golden Dataset + multi-function evaluation system)
+   * Focus GTM on Category Leaders, Procurement Directors, and Global Commodity Managers
 
 ## M1 Baseline vs. Now
 *Your 3-sentence AI strategy from Module 1 vs. what you'd say now:*
