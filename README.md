@@ -23,7 +23,7 @@
 
 - **Product:** **Your Role:**
 - **AI Value Archetype:** Agent / Analyst / Coach / Planner / Researcher
-- **Vulnerability Scores:** Moat 3/5 · Data __/5 · Platform 2/5
+- **Vulnerability Scores:** Moat 3/5 · Data 2.5/5 · Platform 2/5
 - **Top Risk:** The product is outpaced by incumbents that combine enterprise distribution, AI infrastructure, and workflow ownership to make autonomous sourcing a bundled capability rather than a standalone purchase.
 - **Confidence:** M
 - **Prototype:** https://lovable.dev/projects/fa9b15ab-6fba-4daa-97e2-c6f1b094672a
