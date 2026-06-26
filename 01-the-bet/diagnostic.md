@@ -52,13 +52,21 @@ As enterprise AI becomes embedded into productivity suites, copilots, and busine
 
 ---
 
+## Customer Validation
+
+• 20 Procurement leaders interviewed
+• 5 Design Partners
+• 3 Paid Pilots
+• Top 5 Jobs-to-be-Done
+• Most common workarounds
+
 ## Top Vulnerability
 <!-- One line: what's the single biggest strategic risk? -->
 The product is outpaced by incumbents that combine enterprise distribution, AI infrastructure, and workflow ownership to make autonomous sourcing a bundled capability rather than a standalone purchase.
 
 ## Confidence Level
-<!-- H / M / L — how confident are you in this bet after the diagnostic? -->
-M
+<!-- H / M / L — how confident are you in this bet after the diagnostic? --> M
+
 Upside: Procurement remains a high-value domain where specialized agents can create measurable ROI through savings, speed, and supplier optimization.
 Key uncertainty: The long-term moat depends on building proprietary negotiation intelligence and embedded workflows faster than platform providers and procurement incumbents can incorporate similar functionality.
 What would raise confidence to High (H):
