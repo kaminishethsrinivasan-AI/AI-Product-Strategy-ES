@@ -1,6 +1,6 @@
 # **Your Role:**
 
-> An autonomous AI agent becomes every Category Leader's most trusted sourcing partner.
+> An autonomous AI agent becomes every Category Leader's most trusted sourcing partner. Enterprise procurement organizations will adopt an AI Procurement Intelligence Platform that augments—not replaces—procurement professionals because it delivers measurable sourcing improvements …
 
 ---
 
