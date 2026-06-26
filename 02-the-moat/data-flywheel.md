@@ -88,7 +88,7 @@ This creates a procurement intelligence network that benefits every customer whi
 
 **Total Flywheel Score: 11/20**
 **Weakest Loop:**
-Network (1/5)
+Network (2/5)
 
 **Fix for weakest loop:**
 Launch an Anonymized Procurement Intelligence Exchange that aggregates:
