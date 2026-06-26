@@ -7,59 +7,86 @@
 
 | Loop | What It Measures | Score 1 | Score 5 | Score |
 |------|------------------|---------|---------|-------|
-| **Correction** | Do users fix AI outputs? Is that signal captured and reused? | No capture | Automated retraining | 2/5 |
-| **Preference** | Does the product learn individual / team preferences over time? | Stateless | Deep personalization | 2/5 |
-| **Domain Context** | Does usage in one area improve quality in adjacent areas? | Siloed | Cross-domain transfer | 3/5 |
-| **Network** | Does each new user / team make the product better for everyone? | Isolated | Strong network effects | 1/5 |
+| **Correction** | Does every sourcing event create new learning? | Static recommendations | Continuous outcome learning | 2/5 |
+| **Preference** | Does the agent learn enterprise procurement preferences? | Stateless | Enterprise-specific personalization | 3/5 |
+| **Domain Context** | Does procurement knowledge compound across categories? | Siloed | Procurement Intelligence Graph | 4/5 |
+| **Network** | Does aggregated intelligence improve market recommendations? | None | Industry benchmark network | 2/5 |
 
 ### Correction Loop - 2/5
 **What you capture today:**
-User prompts
-AI-generated negotiation strategies
-RFx analyses
-Session history
-Explicit thumbs up/down feedback (if available)
+Initially, the platform captures only operational outcomes generated through the product:
+Negotiation outcomes
+Award decisions
+Supplier selections
+User acceptance or rejection of AI recommendations
+Savings realized
 
 **How it compounds:**
-Today, corrections are primarily used within the current session or for manual product improvement. They do not automatically improve future recommendations or retrain negotiation strategies.
-Opportunity: Capture edits to negotiation plans, supplier rankings, and award recommendations as structured learning signals.
+Each sourcing event becomes labeled training data.
+Over time the agent learns:
+which negotiation tactics consistently succeed
+which pricing targets are achievable
+which suppliers outperform expectations
+which recommendations lead to realized savings
+Every completed sourcing event improves the next one.
 
-### Preference Loop - 2/5
+### Preference Loop - 3/5
 **What you capture today:**
-Recent conversations
-Saved analyses
-Active sourcing projects
-Organization-level configuration
-Connected enterprise systems
+The platform begins learning enterprise-specific procurement behavior:
+approval patterns
+stakeholder preferences
+supplier preferences
+category strategies
+risk tolerance
+negotiation style
 
 **How it compounds:**
-The agent provides some contextual continuity but does not yet learn enduring buyer preferences, negotiation styles, or stakeholder priorities across engagements.
-Opportunity: Build persistent procurement profiles for users, teams, and business units.
+Instead of generic procurement advice, the agent develops organization-specific playbooks that increasingly reflect how the enterprise actually buys, negotiates, and approves sourcing decisions.
 
-### Domain Context Loop - 3/5
+### Domain Context Loop - 4/5
 **What you capture today:**
-ERP spend data
-Supplier master records
-Contract metadata
-Risk platform integrations
-Spend analytics outputs
+As sourcing activity grows, the platform builds a connected Procurement Intelligence Graph using:
+benchmark pricing
+supplier performance
+sourcing events
+contracts
+spend analytics
+market intelligence
 
 **How it compounds:**
-The AI can combine multiple enterprise data sources to generate richer recommendations, but knowledge transfer between sourcing events remains limited because historical execution outcomes are not systematically incorporated.
-Opportunity: Create a Procurement Knowledge Graph linking suppliers, categories, negotiations, contracts, and outcomes.
+Knowledge transfers across categories.
+For example:
+successful logistics negotiations improve transportation sourcing
+supplier performance informs future award decisions
+pricing benchmarks improve should-cost models
+sourcing strategies become reusable across business units
+The platform evolves from isolated workflows into an enterprise procurement knowledge system.
 
-### Network Loop - 1/5
+### Network Loop - 2/5
 **What you capture today:**
-Very little cross-customer learning
-No anonymized benchmarking
-No shared negotiation intelligence
-No industry-wide pricing insights
+Initially there is no cross-customer intelligence.
+Only public market data and customer-specific information are used.
 
 **How it compounds:**
-Each customer benefits only from its own enterprise data. New customers do not materially improve recommendations for others.
-Opportunity: Introduce privacy-preserving aggregation of market benchmarks, supplier risk trends, and pricing indices.
+As adoption grows, anonymized intelligence contributes to:
+market pricing benchmarks
+supplier performance trends
+inflation signals
+category benchmarks
+negotiation success patterns
+This creates a procurement intelligence network that benefits every customer while preserving data privacy.
 
-**Total Flywheel Score: 8/20**
+## Proprietary Assets That Compound
+| Proprietary Asset	| Why It Matters |
+|-------------------|----------------|
+| Negotiation Outcomes	| Learns which strategies consistently produce better pricing, terms, and concessions. |
+| Supplier Performance	| Builds predictive models for supplier quality, delivery, compliance, and future risk.|
+| Award Decisions	| Understands why suppliers win or lose, improving future recommendations. |
+| Benchmark Pricing	| Creates enterprise-specific and industry-wide pricing intelligence unavailable from public sources.|
+| Approval Patterns	| Learns executive, finance, legal, and procurement approval behaviors to streamline workflows. |
+| Savings Realized	| Trains models on actual business outcomes rather than projected savings, improving recommendation accuracy.|
+
+**Total Flywheel Score: 11/20**
 **Weakest Loop:**
 Network (1/5)
 
