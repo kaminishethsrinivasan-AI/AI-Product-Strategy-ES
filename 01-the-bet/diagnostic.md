@@ -5,6 +5,7 @@ Agentic Sourcing — "Emerging Category Leader"
 
 **Product:**
 **Your Role:**
+Head of Sourcing
 
 ---
 
