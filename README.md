@@ -23,7 +23,7 @@
 
 - **Product:** **Your Role:**
 - **AI Value Archetype:** Agent / Analyst / Coach / Planner / Researcher
-- **Vulnerability Scores:** Moat 3/5 · Data 2.5/5 · Platform 2/5
+- **Vulnerability Scores:** _(add: Moat _/5 · Data _/5 · Platform _/5)_
 - **Top Risk:** The product is outpaced by incumbents that combine enterprise distribution, AI infrastructure, and workflow ownership to make autonomous sourcing a bundled capability rather than a standalone purchase.
 - **Confidence:** M
 - **Prototype:** https://lovable.dev/projects/fa9b15ab-6fba-4daa-97e2-c6f1b094672a
@@ -38,7 +38,7 @@
 **Why this won't get copied in 6 months.**
 
 - **Data Flywheel Score:**
-- **Weakest Loop:** Network (1/5)
+- **Weakest Loop:** Network (2/5)
 - **Top Encroachment Threat:** Enterprise platform providers ((e.g., SAP, Zip, AWS, Microsoft, Salesforce)
 - **Encroachment Defense:** Launch an Anonymized Procurement Intelligence Exchange that aggregates:
 - **Vendor Portability:** Partial
@@ -80,7 +80,7 @@
 
 ## The Guardrails (M5)
 
-**What breaks when this scales — and what compounds.**
+**What breaks when this scales, and what compounds.**
 
 - **Compounding System:** | Loop | Input | Output | Compounds? | Status | |------|-------|--------|-----------|--------| | Negotiation Learning Loop | Negotiation strategies, user edits, supplier counteroffers, final negotiated outcomes | Improve…
 - **Governance Posture:** The AI supports procurement planning, supplier intelligence, negotiation preparation, sourcing recommendations, pricing diligence, and autonomous workflow orchestration while remaining subject to enterprise governance po…
